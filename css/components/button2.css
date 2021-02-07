@@ -1,0 +1,13 @@
+.btn-blu {
+	background-color: rgb(1 43 85);
+	padding: 10px 10px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Noto Sans JP', sans-serif;
+	margin-bottom: 10px;
+	font-size: 16px;
+}
+#final p {
+	margin-bottom: 35px;
+}

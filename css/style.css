@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Mega&family=Noto+Sans+JP:wght@300&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/button2.css");
+@import url("components/card.css");
+
+
+body {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 18px;
+  text-align: left;
+
+}
+
+h1, h2, h3 {
+	font-family: 'Lexend Mega', sans-serif;
+	font-weight: bold;
+	margin-top: 35px;
+}
+a {
+	text-decoration: none;
+}
+
